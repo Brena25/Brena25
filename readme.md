@@ -1,4 +1,23 @@
-# Olá! Eu sou a Brena Silva 👋
+
+![Foto de Fundo para Linkedin Amarelo Lâmpada Minimalista](https://github.com/Brena25/Brena25/assets/79220798/fb504574-5100-4ced-9386-641e376c13ad)
+
+
+ 
+
+
+# Olá! Boas Vindas <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+
+
+
+
+
+
+👩‍🎓 HTML, CSS, Javascript e React
+
+👩‍🎓 UX Designer - Descomplica + Instituo Nu / Coursera + Google
+
+Amo música 🎵 , ler :books: e ir assistir séries 📺 
+Sou casada e mãe de um carrocho , o Pretinho 🐶
 
 
 
@@ -21,10 +40,11 @@
   
   #
   <div>
-    <img align="center" alt="Brena-Avatar" height="400" width="400" 
-  src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFo_EHTg7c&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    <img
+  src""
 
 </div>
+
 💻Design de Brena Silva
 
 
