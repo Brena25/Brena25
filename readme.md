@@ -19,17 +19,13 @@
 
 </div>
   
-  ##
- 
-<div> 
+  #
+  <div>
+    <img align="center" alt="Brena-Avatar" height="400" width="400" 
+  src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFo_EHTg7c&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 
-
-  <a href = "mailto:brenakarine251185@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
-  <a href="https://www.linkedin.com/in//brena-silva-58aaba202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+💻Design de Brena Silva
 
-<div>
-  <img align="right" alt="Brena-cat" height="300" width="250"
-    src="https://myoctocat.com/assets/images/base-octocat.svg">
-</div>
+
+
