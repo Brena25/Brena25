@@ -8,7 +8,7 @@
 # Olá! Boas Vindas <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
 
-Me chamo Brena, minha primeira formação é em Engenharia onde trabalhei por 10 anos, realizei a transição de carreira e hoje sou formada em Análise e Desenvolvimento de Sistemas, estou aprimorando meus conhecimentos em Desenvolvimento Web e UX Designer.
+Me chamo Brena, minha primeira formação é em Engenharia onde trabalhei por 10 anos, realizei a transição de carreira e hoje sou formada em Análise e Desenvolvimento de Sistemas, estou aprimorando meus conhecimentos em Desenvolvimento Web Front-end e UX Designer.
 
 
 
