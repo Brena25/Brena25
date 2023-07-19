@@ -16,6 +16,8 @@ Me chamo Brena, minha primeira formação é em Engenharia onde trabalhei por 10
 
 👩‍🎓 UX Designer 
 
+👩‍🎓 Psicologia das cores
+
 Amo música 🎵 , ler :books: e assistir séries 📺 
 Sou casada e mãe de um carrocho , o Pretinho 🐶
 
