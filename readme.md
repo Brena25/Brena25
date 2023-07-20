@@ -1,5 +1,5 @@
+![Foto de Fundo para Linkedin Amarelo Lâmpada Minimalista (2)](https://github.com/Brena25/Brena25/assets/79220798/a984c235-6ab4-4e8e-8725-725a2b344faa)
 
-![Foto de Fundo para Linkedin Amarelo Lâmpada Minimalista](https://github.com/Brena25/Brena25/assets/79220798/fb504574-5100-4ced-9386-641e376c13ad)
 
 
  
@@ -20,17 +20,16 @@ Me chamo Brena, minha primeira formação é em Engenharia onde trabalhei por 10
 
 Amo música 🎵 , ler :books: e assistir séries 📺 
 Sou casada e mãe de um carrocho , o Pretinho 🐶
-
-
-
+<br>
+<br>
 <div>
-  <h3 align="center">Status do meu Github </h3>
+  <h3 align="center">🟣 Status do meu Github 🟣 </h3>
   <a href="https://github.com/Brena25">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brena25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brena25&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Brena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="Brena-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -40,14 +39,19 @@ Sou casada e mãe de um carrocho , o Pretinho 🐶
 
 </div>
   
-  #
-  <div>
-    <img
-  src""
+#
+  
 
+  ![Beige Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/Brena25/Brena25/assets/79220798/0d4df028-7e76-42bb-8655-3cb84b96ba4f)
+
+   
+  
+
+
+
+<div align="center">
+ 💻 Desenvolvido por Brena Silva
 </div>
-
-💻Design de Brena Silva
 
 
 
