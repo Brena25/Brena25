@@ -22,11 +22,11 @@ Amo música 🎵 , ler :books: e assistir séries 📺
 Sou casada e mãe de um carrocho , o Pretinho 🐶
 <br>
 <br>
-<div>
-  <h3 align="center">🟣 Status do meu Github 🟣 </h3>
+<div align="center">
+  <h3 >Status do meu Github  </h3>
   <a href="https://github.com/Brena25">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brena25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brena25&layout=compact&langs_count=16&theme=dracula"/>
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=brena25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brena25&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -40,16 +40,11 @@ Sou casada e mãe de um carrocho , o Pretinho 🐶
 </div>
   
 #
-  
 
-  ![Beige Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/Brena25/Brena25/assets/79220798/0d4df028-7e76-42bb-8655-3cb84b96ba4f)
+ <div align="center">
+ <img  alt="Brena" height="200" width="200"
+ src="https://github.com/Brena25/Brena25/assets/79220798/3d833b04-5c1a-47c6-8711-a008b808ae1f">
 
-   
-  
-
-
-
-<div align="center">
  💻 Desenvolvido por Brena Silva
 </div>
 
