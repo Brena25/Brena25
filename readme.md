@@ -18,7 +18,7 @@ Me chamo Brena, minha primeira formação é em Engenharia onde trabalhei por 10
 
 👩‍🎓 Psicologia das cores
 
-Amo música 🎵 , ler :books: e assistir séries 📺 
+Sou uma pessoa que ama estudar e conhecer novas perspectivas, novas formas, novas cores, amo design, música 🎵 , ler :books: e assistir séries 📺 
 Sou casada e mãe de um carrocho , o Pretinho 🐶
 <br>
 <br>
