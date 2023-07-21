@@ -39,10 +39,13 @@ Sou casada e mãe de um carrocho , o Pretinho 🐶
 
 </div>
 
-<div style="display: inline_block"><br>
-  <a href="" height="30" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" target="_blank"></a>
- <a href="" height="30" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" target="_blank"></a> 
+<br>
+<br>
+
+<div align="center" style="display: inline_block"><br>
+  <a href="https://www.instagram.com/brenak_silva/" height="30" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" target="_blank"></a>
+ <a href="_brenasilva" height="30" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/brena-silva-58aaba202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" target="_blank"></a> 
 </div>
 
   
