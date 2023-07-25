@@ -36,12 +36,6 @@ Sou casada e mãe de um carrocho , o Pretinho 🐶
 
 <br>
 <br>
-<div align="center">
-  <h3 >Status do meu Github  </h3>
-  <a href="https://github.com/Brena25">
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=brena25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-     <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brena25&layout=compact&langs_count=16&theme=dracula"/>
-</div>
 
 <div align="center" style="display: inline_block"><br>
  
@@ -53,8 +47,9 @@ Sou casada e mãe de um carrocho , o Pretinho 🐶
 #
 
  <div align="center">
- <img  alt="Brena" height="200" width="200"
- src="https://github.com/Brena25/Brena25/assets/79220798/3d833b04-5c1a-47c6-8711-a008b808ae1f">
+ <img  alt="Brena" height="400" width="200" 
+src="https://github.com/Brena25/Brena25/assets/79220798/e78df3c4-45f0-449a-b0cb-af4bd457afc2">
+
 
  💻 Desenvolvido por Brena Silva
 </div>
