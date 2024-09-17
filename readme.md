@@ -7,16 +7,21 @@
 
 # Olá! Boas Vindas <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
+Olá! Sou Brena Silva, engenheira agrônoma com 10 anos de experiência liderando equipes e projetos complexos no setor agrícola. Desenvolvi minha expertise técnica e habilidades de liderança, valorizando a comunicação eficaz, o trabalho em equipe e a gestão de recursos para alcançar excelentes resultados.
 
-Me chamo Brena, minha primeira formação é em Engenharia onde trabalhei por 10 anos, realizei a transição de carreira e hoje sou formada em Análise e Desenvolvimento de Sistemas, estou aprimorando meus conhecimentos em Desenvolvimento Web Front-end e UX Designer.
+Minha carreira tomou um novo rumo ao fazer a transição para a área de Tecnologia. Com formação em Análise e Desenvolvimento de Sistemas, focada em UX/UI Design, encontrei minha paixão por criar soluções funcionais que melhoram a experiência do usuário.
+
+Atualmente, estou dedicada a ampliar meu conhecimento em Gestão de Produtos através de uma pós-graduação. Acredito na importância da interseção entre design centrado no usuário e estratégias de negócios para o sucesso de produtos digitais inovadores e eficazes.
+
+Estou entusiasmada com novos desafios e oportunidades que me permitam crescer profissionalmente e impactar o mundo digital em constante evolução. Obrigada por explorar minha trajetória e estou à disposição para colaborações e projetos empolgantes.
 
 
 
-👩‍🎓 HTML, CSS
+👩‍🎓 HTML / CSS
+👩‍🎓 UX / UI Designer 
+👩‍🎓 Gestora de Produtos
+👩‍🎓 Analista e Desenvolvedora de Sistemas
 
-👩‍🎓 UX Designer 
-
-👩‍🎓 Psicologia das cores
 
 Sou uma pessoa que ama estudar e conhecer novas perspectivas, novas formas, novas cores, amo design, música 🎵 , ler :books: e assistir séries 📺 
 Sou casada e mãe de um carrocho , o Pretinho 🐶
