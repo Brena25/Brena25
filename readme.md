@@ -1,4 +1,4 @@
-![Foto de Fundo para Linkedin Amarelo Lâmpada Minimalista (2)](https://github.com/Brena25/Brena25/assets/79220798/a984c235-6ab4-4e8e-8725-725a2b344faa)
+
 
 
 
