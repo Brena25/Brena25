@@ -1,5 +1,4 @@
-![Foto de Fundo para Linkedin Amarelo Lâmpada Minimalista (2)](https://www.canva.com/design/DAGFTvomevM/Gd7nefENU8-Sa0WpYWKcTg/view?utm_content=DAGFTvomevM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
-
+https://www.canva.com/design/DAGFTvomevM/Gd7nefENU8-Sa0WpYWKcTg/view?utm_content=DAGFTvomevM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
 
 
 # Olá! Boas Vindas <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
