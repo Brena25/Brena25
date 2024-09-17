@@ -12,7 +12,7 @@ Me chamo Brena, minha primeira formação é em Engenharia onde trabalhei por 10
 
 
 
-👩‍🎓 HTML, CSS , Javascript e React
+👩‍🎓 HTML, CSS
 
 👩‍🎓 UX Designer 
 
