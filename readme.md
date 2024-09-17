@@ -52,7 +52,7 @@ Sou casada e mãe de um carrocho , o Pretinho 🐶
 #
 
  <div align="center">
- <img  alt="Brena" height="350" width="200" 
+ <img  alt="Brena" height="300" width="200" 
 src="https://github.com/Brena25/Brena25/assets/79220798/e78df3c4-45f0-449a-b0cb-af4bd457afc2">
 
 
